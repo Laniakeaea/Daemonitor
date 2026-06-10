@@ -5,3 +5,6 @@ out/
 *.pdb
 *.ilk
 *.obj
+
+doc/
+support/
