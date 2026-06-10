@@ -56,7 +56,7 @@ Left-click or right-click the system tray icon to access settings:
 
 ### Quick Start
 
-1. Download `Daemonitor-{version}.exe` from the [Releases]() page
+1. Download `Daemonitor-{version}.exe` from the [Releases](https://github.com/Laniakeaea/Daemonitor/releases) page
 2. Run — no installation required
 3. Move the cursor to the top edge of the screen to peek at the overlay
 4. Right-click or left-click the tray icon to configure
@@ -144,7 +144,7 @@ Daemonitor 是一款轻量级系统监控覆盖工具，在屏幕顶部边缘实
 
 ### 快速开始
 
-1. 从 [Releases]() 页面下载 `Daemonitor-{version}.exe`
+1. 从 [Releases](https://github.com/Laniakeaea/Daemonitor/releases) 页面下载 `Daemonitor-{version}.exe`
 2. 直接运行——无需安装
 3. 将鼠标移至屏幕顶部边缘唤出监控覆盖窗口
 4. 右键或左键点击系统托盘图标进行配置
