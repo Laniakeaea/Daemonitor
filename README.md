@@ -63,8 +63,8 @@ Left-click or right-click the system tray icon to access settings:
 
 ### Preview
 
-<img width="1000" height="400" alt="snap1" src="https://github.com/user-attachments/assets/888b442f-1eb6-4664-9d05-107d0e42029f" />
-<img width="1000" height="400" alt="snap2" src="https://github.com/user-attachments/assets/d3faa5b0-6eba-4463-8f2b-a523057b8b50" />
+<img width="1000" height="500" alt="snap2" src="https://github.com/user-attachments/assets/5da41fe8-f2d1-4d81-ba5b-98dcf726faf0" />
+<img width="1000" height="500" alt="snap1" src="https://github.com/user-attachments/assets/e3a5127a-1c62-483c-9db0-eaa53d6e69e6" />
 
 
 ### Versioning
@@ -151,8 +151,8 @@ Daemonitor 是一款轻量级系统监控覆盖工具，在屏幕顶部边缘实
 
 ### 预览
 
-<img width="1000" height="400" alt="snap1" src="https://github.com/user-attachments/assets/bb9a6d48-ec06-45c9-90de-c19324a3a6d0" />
-<img width="1000" height="400" alt="snap2" src="https://github.com/user-attachments/assets/f1bd803f-ae6b-4d74-b5e3-57d475c22b21" />
+<img width="1000" height="500" alt="snap2" src="https://github.com/user-attachments/assets/9a49df5c-e8c5-4faf-92cb-25509f56c043" />
+<img width="1000" height="500" alt="snap1" src="https://github.com/user-attachments/assets/099ae322-4677-48f2-9660-19c2c2e48111" />
 
 
 ### 版本规范
