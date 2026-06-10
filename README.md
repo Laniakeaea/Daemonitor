@@ -63,9 +63,9 @@ Left-click or right-click the system tray icon to access settings:
 
 ### Preview
 
-<img width="435" height="60" alt="snap1" src="assets/app/snap1.png" />
+<img width="1000" height="400" alt="snap1" src="https://github.com/user-attachments/assets/888b442f-1eb6-4664-9d05-107d0e42029f" />
+<img width="1000" height="400" alt="snap2" src="https://github.com/user-attachments/assets/d3faa5b0-6eba-4463-8f2b-a523057b8b50" />
 
-<img width="435" height="60" alt="snap2" src="assets/app/snap2.png" />
 
 ### Versioning
 
@@ -151,9 +151,9 @@ Daemonitor 是一款轻量级系统监控覆盖工具，在屏幕顶部边缘实
 
 ### 预览
 
-<img width="435" height="60" alt="snap1" src="assets/app/snap1.png" />
+<img width="1000" height="400" alt="snap1" src="https://github.com/user-attachments/assets/bb9a6d48-ec06-45c9-90de-c19324a3a6d0" />
+<img width="1000" height="400" alt="snap2" src="https://github.com/user-attachments/assets/f1bd803f-ae6b-4d74-b5e3-57d475c22b21" />
 
-<img width="435" height="60" alt="snap2" src="assets/app/snap2.png" />
 
 ### 版本规范
 
